@@ -66,7 +66,7 @@ java -jar arpwatch.jar --threshold 20
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [Discord](https://x.com/AnonAntics)
 
 ## License
 
